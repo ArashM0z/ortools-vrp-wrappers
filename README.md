@@ -19,3 +19,5 @@ demand = np.array([0.3, 0.4])
 sol = solve_cvrp(dist, demand, capacity=1.0)
 print(sol.routes, sol.total_distance)
 ```
+
+<!-- 2023-05 -->
