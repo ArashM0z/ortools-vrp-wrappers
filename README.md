@@ -111,3 +111,5 @@ print(sol.routes, sol.total_distance)
 <!-- iter 2024-09-16-17 -->
 
 <!-- iter 2024-09-16-19 -->
+
+<!-- iter 2024-09-16-21 -->
