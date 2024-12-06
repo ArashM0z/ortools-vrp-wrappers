@@ -55,3 +55,5 @@ print(sol.routes, sol.total_distance)
 <!-- maint 2024-08-23 -->
 
 <!-- maint 2024-10-15 -->
+
+<!-- maint 2024-12-06 -->
